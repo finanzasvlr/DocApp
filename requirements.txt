@@ -5,3 +5,4 @@ chromadb
 tiktoken
 langchain-community
 protobuf<4.24
+faiss-cpu
