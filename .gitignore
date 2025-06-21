@@ -1,0 +1,12 @@
+# Entornos virtuales
+venv/
+env/
+.venv/
+.env/
+# Archivos de Python
+pycache/
+*.pyc
+# Otros
+*.log
+*.sqlite3
+.DS_Store
